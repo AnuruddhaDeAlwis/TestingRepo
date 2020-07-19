@@ -9,6 +9,8 @@ public class FirstClass {
 		
 		SecondClass sec= new SecondClass();
 		sec.secondMethod();
+		
+		System.out.println("Just another change");
 	}
 
 	
