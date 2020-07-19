@@ -7,8 +7,7 @@ public class FirstClass {
 		
 		System.out.println("This is the first class");
 		
-		SecondClass sec= new SecondClass();
-		sec.secondMethod();
+		
 		
 		System.out.println("Just another change");
 	}
